@@ -1,0 +1,3 @@
+com.example.retrofitlesson.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

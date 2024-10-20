@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.retrofitdataclasslesson.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.retrofitdataclasslesson.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitdataclasslesson.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitdataclasslesson.app-main-49:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.retrofitlesson.app-mergeDebugResources-46:/layout/fragment_login.xml",
+        "source": "com.example.retrofitlesson.app-main-49:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-mergeDebugResources-46:\\layout\\fragment_products.xml",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-mergeDebugResources-46:\\layout\\content_base.xml",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\content_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-mergeDebugResources-46:\\layout\\list_item.xml",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-mergeDebugResources-46:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\fragment_login.xml"
+    }
+]

@@ -1,0 +1,5 @@
+com.example.retrofitlesson.test.app-core-1.6.1-0 C:\Users\Vd545\.gradle\caches\transforms-4\59d14d23a5f35cd0a5490912f0adb9f7\transformed\core-1.6.1\res
+com.example.retrofitlesson.test.app-androidTest-1 C:\Users\Vd545\AndroidStudioProjects\RetrofitLesson\app\build\generated\res\resValues\androidTest\debug
+com.example.retrofitlesson.test.app-mergeDebugAndroidTestResources-2 C:\Users\Vd545\AndroidStudioProjects\RetrofitLesson\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.retrofitlesson.test.app-mergeDebugAndroidTestResources-3 C:\Users\Vd545\AndroidStudioProjects\RetrofitLesson\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.retrofitlesson.test.app-debugAndroidTest-4 C:\Users\Vd545\AndroidStudioProjects\RetrofitLesson\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

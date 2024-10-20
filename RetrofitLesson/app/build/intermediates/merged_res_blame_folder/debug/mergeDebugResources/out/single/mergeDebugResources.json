@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\layout_content_base.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\content_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.retrofitlesson.app-debug-47:/layout_fragment_login.xml.flat",
+        "source": "com.example.retrofitlesson.app-main-49:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-debug-47:\\layout_fragment_products.xml.flat",
+        "source": "C:\\Users\\Vd545\\.gradle\\daemon\\8.7\\com.example.retrofitlesson.app-main-49:\\layout\\fragment_products.xml"
+    }
+]
